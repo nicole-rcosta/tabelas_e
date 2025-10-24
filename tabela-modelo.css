@@ -1,0 +1,27 @@
+/* Estilos por tags */
+/* A vírgula (E) separa cada uma das tags, formatando-as de forma independente */
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    margin: 25px auto 0;
+}
+
+/* Irá substituis a formatação anterior (cascata) */
+table{
+    width: 100%;
+}
+
+
+th{
+    background: #5001bf;
+    color: #fff;
+}
+
+/* Mais específico, será o TD dentro do TR do TFOOT */
+tfoot tr td {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    color: #5001bf;
+}

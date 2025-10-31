@@ -1,7 +1,7 @@
 .navegacao{
     width: 600px;
     margin: 25px auto;
-    border: 2px solid red;
+    /* border: 2px solid #df3551 */
 }
 
 .navegacao nav{
@@ -14,7 +14,7 @@
 
 .navegacao button{
     color: #fff;
-    background-color: #5001bf;
+    background-color: #df3551;
     border-radius: 6px;
     padding: 10px 15px;
     cursor: pointer;
@@ -23,7 +23,7 @@
 }
 
 .navegacao button:hover{
-    background-color: #9e9d9d;
-    color: #5001bf;
+    background-color: #fdbfbf;
+    color: #df3551;
 
 }

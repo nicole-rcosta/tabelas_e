@@ -14,7 +14,7 @@ table{
 
 
 th{
-    background: #5001bf;
+    background: #df3551;
     color: #fff;
 }
 
@@ -23,5 +23,5 @@ tfoot tr td {
     text-align: center;
     font-family: Helvetica, sans-serif;
     font-style: italic;
-    color: #5001bf;
+    color:#df3551;
 }

@@ -11,12 +11,12 @@ th,td{
 }
 
 th{
-    background-color: #a7a7a7;
+    background-color: #f39898;
     font-weight: 900;
 }
 
 .tabela-1 th, .tabela-1 td {
-    border: 2px solid #000000;
+    border: 2px solid #df3551;
 }
 
 .tabela-1 img{
@@ -36,7 +36,7 @@ th{
 }
 
 .tabela-2 th, .tabela-2 td {
-    border: 1px solid #f80000;
+    border: 1px solid #d34848; 
 }
 
 
